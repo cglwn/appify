@@ -7,3 +7,6 @@ all:
 	chmod u+x release/utopos
 clean:
 	rm -rf release
+
+install:
+	ln -s ~/utopos/release/utopos /usr/bin/utopos
