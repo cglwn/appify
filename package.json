@@ -1,7 +1,12 @@
 {
-    "name": "nw-demo",
+    "name": "Utopos",
     "main": "index.html",
+    "version": "0.0.1",
     "window": {
-	"toolbar": false
+	"title": "Utopos",
+	"width": 1280,
+	"height": 720,
+	"toolbar": false,
+	"position": "center"
     }
 }
