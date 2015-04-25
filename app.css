@@ -1,0 +1,19 @@
+body {
+    font-family: Arial
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    border: 0px 0px 0px 0px;
+}
+
+.header {
+    font-size: 14pt;
+    margin-top: 0px;
+    border-top: 0px;
+    padding-top: 0px;
+    background-color: #16AFE1;
+}
+
+.app-list{
+    margin: auto auto;
+    max-width: 800px;
+}
